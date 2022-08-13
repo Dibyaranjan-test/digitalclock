@@ -1,0 +1,18 @@
+.card
+{
+    display: flex;
+    color:white;
+    font-size: large;
+    font-family: sans-serif;
+    flex-direction: column;
+    position: relative;
+    height: 150px;
+    width: 40vw;
+    align-items: center;
+    text-transform: uppercase;
+    background-color: rgba(35,
+        158,
+        74,0.3);
+    border-radius: 1%;
+    letter-spacing: 1px;
+}
